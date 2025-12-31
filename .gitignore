@@ -1,0 +1,22 @@
+# Documentation
+docs/
+project-docs/
+project-instructions/
+reports/
+instructions/
+
+# Config files with secrets
+*.config.local
+.env
+.env.local
+wrangler.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+
