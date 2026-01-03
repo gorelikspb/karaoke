@@ -1,0 +1,711 @@
+{
+  "songs": [
+    {
+      "id": "pesnya-o-zvezdah",
+      "title": "Песня о звёздах",
+      "artist": "Из к/ф 'Про Красную Шапочку'",
+      "filename": "pesnya-o-zvezdah",
+      "youtube": {
+        "video_id": "au_4XpHlGK8",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Караоке версия песни 'Песня о звёздах' из фильма 'Про Красную Шапочку'.\n\nПойте вместе с любимыми песнями!\n\n🎤 Караоке для обучения пению\n\n#караоке #песняозвездах #караокепесня",
+        "tags": [
+          "караоке",
+          "песня о звездах",
+          "про красную шапочку",
+          "караоке версия",
+          "пойте вместе"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "Ты посмотри, какая гладь",
+              "А в глади той — светила",
+              "Их тысяча, их миллион",
+              "И больше — без числа"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "И нет такого места",
+              "Где бы не было звёзд",
+              "И нет такого времени",
+              "Когда бы их не было"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Их светит нам издалека",
+              "И будет светить всегда",
+              "И пусть не хватает нам звёзд",
+              "Но всё равно — мы ждём"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Песня о звёздах из к/ф \"Про Красную Шапочку\" (клип)",
+          "url": "https://www.youtube.com/watch?v=RcWJkY8Qsm4"
+        }
+      ]
+    },
+    {
+      "id": "s-novym-godom-kroshka",
+      "title": "С новым годом, крошка",
+      "artist": "Мумий Тролль",
+      "filename": "s-novym-godom-kroshka",
+      "youtube": {
+        "video_id": "A_q9gQtv1wA",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Караоке версия песни 'С новым годом, крошка' группы Мумий Тролль.\n\nПойте вместе с любимыми песнями!\n\n🎤 Караоке для обучения пению\n\n#караоке #мумийтролль #сновымгодомкрошка #караокепесня",
+        "tags": [
+          "караоке",
+          "мумий тролль",
+          "с новым годом крошка",
+          "караоке версия",
+          "пойте вместе"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "Рождественских снежинок нет.",
+              "Такая вот погода здесь.",
+              "И кто-то жадно берет за ворот.",
+              "Куда идти? — Хоть в лисьи норы лезть."
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "С Новым Годом, крошка!",
+              "С Новым Годом! Хэй-е-е-е-ей",
+              "Подожди немножко,",
+              "Будет веселей!"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Рождественских снежинок нет.",
+              "Снегурку замели.",
+              "И кто-то жадно берет за ворот.",
+              "Замерзли Жигули."
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "С Новым Годом, крошка!",
+              "С Новым Годом! Хэй-е-е-е-ей",
+              "Подожди немножко,",
+              "Будет веселей!"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "С Новым Годом, крошка!",
+              "С Новым Годом! Хэй-е-е-е-ей",
+              "Подожди немножко,",
+              "Будет веселей!"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "С Новым Годом, крошка!",
+              "С Новым Годом! Хэй-е-е-е-ей",
+              "Лунная дорожка",
+              "Станет холодней."
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Мумий Тролль - С новым годом, крошка (клип)",
+          "url": "https://www.youtube.com/watch?v=c2Y1UGWceU0"
+        }
+      ]
+    },
+    {
+      "id": "svetlaya-polosa",
+      "title": "Светлая полоса",
+      "artist": "Нойз МС",
+      "filename": "svetlaya-polosa",
+      "youtube": {
+        "video_id": "BXnCT2JG1kY",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Караоке версия песни 'Светлая полоса' исполнителя Нойз МС.\n\nПойте вместе с любимыми песнями!\n\n🎤 Караоке для обучения пению\n\n#караоке #нойзмс #светлаяполоса #караокепесня",
+        "tags": [
+          "караоке",
+          "нойз мс",
+          "светлая полоса",
+          "караоке версия",
+          "пойте вместе"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "В пепельной пустыне полярная ночь",
+              "Холодная зола, остывшая печь",
+              "На грифеле углём накарябанный скетч",
+              "Будто на глазах в пять слоёв чёрный скотч"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Светлая полоса на горизонте",
+              "Как надежда в этой мгле",
+              "Светлая полоса впереди",
+              "Светлая полоса на земле"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "И мы идём к этой светлой полосе",
+              "Через тьму и холод",
+              "И мы идём к этой светлой полосе",
+              "Веря, что нас там ждут"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Нойз МС - Светлая полоса (клип)",
+          "url": "https://www.youtube.com/watch?v=Wq9tPd5OXMQ"
+        }
+      ]
+    },
+    {
+      "id": "no-surprises",
+      "title": "No Surprises",
+      "artist": "Radiohead",
+      "filename": "no-surprises",
+      "youtube": {
+        "video_id": "mFLGArqV8_0",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Karaoke version of 'No Surprises' by Radiohead.\n\nSing along with your favorite songs!\n\n🎤 Karaoke for learning to sing\n\n#karaoke #radiohead #nosurprises #karaokeversion",
+        "tags": [
+          "karaoke",
+          "radiohead",
+          "no surprises",
+          "karaoke version",
+          "sing along"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "A heart that's full up like a landfill",
+              "A job that slowly kills you",
+              "Bruises that won't heal",
+              "You look so tired, unhappy",
+              "Bring down the government",
+              "They don't, they don't speak for us",
+              "I'll take a quiet life",
+              "A handshake of carbon monoxide"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "No alarms and no surprises",
+              "No alarms and no surprises",
+              "No alarms and no surprises",
+              "Silent, silent"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "This is my final fit",
+              "My final bellyache",
+              "With no alarms and no surprises",
+              "No alarms and no surprises",
+              "No alarms and no surprises please"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Such a pretty house",
+              "And such a pretty garden",
+              "No alarms and no surprises",
+              "No alarms and no surprises",
+              "No alarms and no surprises please"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Radiohead - No Surprises (официальное видео)",
+          "url": "https://www.youtube.com/watch?v=Ukn0xjnsLko"
+        }
+      ]
+    },
+    {
+      "id": "last-christmas",
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "filename": "last-christmas",
+      "youtube": {
+        "video_id": "M6ytpbWXMpQ",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Karaoke version of 'Last Christmas' by Wham!.\n\nSing along with your favorite Christmas songs!\n\n🎤 Karaoke for learning to sing\n🎄 Perfect for Christmas celebrations!\n\n#karaoke #wham #lastchristmas #christmaskaraoke #karaokeversion",
+        "tags": [
+          "karaoke",
+          "wham",
+          "last christmas",
+          "christmas karaoke",
+          "karaoke version",
+          "sing along"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "Last Christmas I gave you my heart",
+              "But the very next day you gave it away",
+              "This year, to save me from tears",
+              "I'll give it to someone special"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Last Christmas I gave you my heart",
+              "But the very next day you gave it away",
+              "This year, to save me from tears",
+              "I'll give it to someone special"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Once bitten and twice shy",
+              "I keep my distance but you still catch my eye",
+              "Tell me baby, do you recognize me?",
+              "Well, it's been a year, it doesn't surprise me"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Merry Christmas, I wrapped it up and sent it",
+              "With a note saying \"I love you\", I meant it",
+              "Now I know what a fool I've been",
+              "But if you kissed me now I know you'd fool me again"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Last Christmas I gave you my heart",
+              "But the very next day you gave it away",
+              "This year, to save me from tears",
+              "I'll give it to someone special"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Wham! - Last Christmas (официальное видео)",
+          "url": "https://www.youtube.com/watch?v=kaBRnhxPLdE"
+        }
+      ]
+    },
+    {
+      "id": "happy-new-year",
+      "title": "Happy New Year",
+      "artist": "ABBA",
+      "filename": "happy-new-year",
+      "youtube": {
+        "video_id": "vmhgG_2MM4E",
+        "shorts_id": "EGOXdMEqoIo"
+      },
+      "metadata": {
+        "description": "Karaoke version of 'Happy New Year' by ABBA.\n\nSing along with your favorite New Year songs!\n\n🎤 Karaoke for learning to sing\n🎉 Perfect for New Year celebrations!\n\n#karaoke #abba #happynewyear #newyearkaraoke #karaokeversion",
+        "tags": [
+          "karaoke",
+          "abba",
+          "happy new year",
+          "new year karaoke",
+          "karaoke version",
+          "sing along"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "No more champagne",
+              "And the fireworks are through",
+              "Here we are, me and you",
+              "Feeling lost and feeling blue",
+              "It's the end of the party",
+              "And the morning seems so grey",
+              "So unlike yesterday",
+              "Now's the time for us to say"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Happy New Year",
+              "Happy New Year",
+              "May we all have a vision now and then",
+              "Of a world where every neighbour is a friend",
+              "Happy New Year",
+              "Happy New Year",
+              "May we all have our hopes, our will to try",
+              "If we don't we might as well lay down and die",
+              "You and I"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Sometimes I see",
+              "How the brave new world arrives",
+              "And I see how it thrives",
+              "In the ashes of our lives",
+              "Oh yes, man is a fool",
+              "And he thinks he'll be okay",
+              "Dragging on, feet of clay",
+              "Never knowing he's astray",
+              "Keeps on going anyway"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Happy New Year",
+              "Happy New Year",
+              "May we all have a vision now and then",
+              "Of a world where every neighbour is a friend",
+              "Happy New Year",
+              "Happy New Year",
+              "May we all have our hopes, our will to try",
+              "If we don't we might as well lay down and die",
+              "You and I"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "ABBA - Happy New Year (официальное видео)",
+          "url": "https://www.youtube.com/watch?v=J3fBefc1_js"
+        }
+      ]
+    },
+    {
+      "id": "happy-xmas",
+      "title": "Happy Xmas (War Is Over)",
+      "artist": "John Lennon",
+      "filename": "happy-xmas",
+      "youtube": {
+        "video_id": "DiuWNL0Meu8",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Karaoke version of 'Happy Xmas (War Is Over)' by John Lennon.\n\nSing along with your favorite Christmas songs!\n\n🎤 Karaoke for learning to sing\n🎄 Perfect for Christmas celebrations!\n\n#karaoke #johnlennon #happyxmas #christmaskaraoke #karaokeversion",
+        "tags": [
+          "karaoke",
+          "john lennon",
+          "happy xmas",
+          "christmas karaoke",
+          "karaoke version",
+          "sing along"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "So this is Christmas",
+              "And what have you done",
+              "Another year over",
+              "And a new one just begun"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "And so this is Christmas",
+              "I hope you have fun",
+              "The near and the dear one",
+              "The old and the young"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "A very merry Christmas",
+              "And a happy New Year",
+              "Let's hope it's a good one",
+              "Without any fear"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "War is over",
+              "If you want it",
+              "War is over",
+              "Now"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "And so this is Christmas",
+              "For weak and for strong",
+              "For rich and the poor ones",
+              "The world is so wrong"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "War is over",
+              "If you want it",
+              "War is over",
+              "Now"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "John Lennon - Happy Xmas (War Is Over) (официальное видео)",
+          "url": "https://www.youtube.com/watch?v=6E0BRIN3Z0c"
+        }
+      ]
+    },
+    {
+      "id": "zvezda-solntse",
+      "title": "Звезда по имени Солнце",
+      "artist": "Кино",
+      "filename": "zvezda-solntse",
+      "youtube": {
+        "video_id": "EdKaEImhNhM",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Караоке версия песни 'Звезда по имени Солнце' группы Кино.\n\nПойте вместе с любимыми песнями!\n\n🎤 Караоке для обучения пению\n\n#караоке #кино #цой #звездапоименисолнце #караокепесня",
+        "tags": [
+          "караоке",
+          "кино",
+          "цой",
+          "звезда по имени солнце",
+          "караоке версия",
+          "пойте вместе"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "Белый снег, серый лёд",
+              "На растрескавшейся земле",
+              "Одеялом лоскутным на ней",
+              "Город в дорожной петле"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "А над городом плывут облака",
+              "Закрывая небесный свет",
+              "А над городом жёлтый дым",
+              "Городу две тысячи лет",
+              "Прожитых под светом звезды",
+              "По имени Солнце"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "И две тысячи лет война",
+              "Война без особых причин",
+              "Война — дело молодых",
+              "Лекарство против морщин"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Красная, красная кровь",
+              "Через час уже просто земля",
+              "Через два на ней цветы и трава",
+              "Через три она снова жива",
+              "И согрета лучами звезды",
+              "По имени Солнце"
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "И две тысячи лет война",
+              "Война без особых причин",
+              "Война — дело молодых",
+              "Лекарство против морщин"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "И мы знаем, что так было всегда",
+              "Что судьбою больше любим",
+              "Кто живёт по законам другим",
+              "И кому умирать молодым",
+              "Он не помнит слово \"да\" и слово \"нет\"",
+              "Он не помнит ни чинов, ни имён",
+              "И способен дотянуться до звёзд",
+              "Не считая, что это сон",
+              "И упасть, опалённым звездой",
+              "По имени Солнце"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Кино - Звезда по имени Солнце (официальное видео)",
+          "url": "https://www.youtube.com/watch?v=FZxI62c34RA"
+        }
+      ]
+    },
+    {
+      "id": "london",
+      "title": "Небо Лондона",
+      "artist": "Земфира",
+      "filename": "london",
+      "youtube": {
+        "video_id": "WPGZHTjk6OA",
+        "shorts_id": null
+      },
+      "metadata": {
+        "description": "Караоке версия песни 'Небо Лондона' Земфиры.\n\nПойте вместе с любимыми песнями!\n\n🎤 Караоке для обучения пению\n\n#караоке #земфира #неболондона #караокепесня",
+        "tags": [
+          "караоке",
+          "земфира",
+          "небо лондона",
+          "караоке версия",
+          "пойте вместе"
+        ],
+        "category": "Music"
+      },
+      "lyrics": {
+        "verses": [
+          {
+            "type": "verse",
+            "lines": [
+              "Мне приснилось небо Лондона,",
+              "В нём приснился долгий поцелуй.",
+              "Мы летели вовсе не держась.",
+              "Кто же из нас первый упадёт",
+              "Вдребезги на Тауэрский мост?",
+              "Утром,",
+              "Я узнаю утром,",
+              "Ты узнаешь позже.",
+              "Этих снов дороже",
+              "Ничего и нет."
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Без таких вот звоночков",
+              "Я же зверь-одиночка.",
+              "Промахнусь, вернусь ночью —",
+              "Не заметит никто.",
+              "Всё тот же зверь-одиночка,",
+              "Я считаю шажочки",
+              "До последней до точки.",
+              "Побежали летать!"
+            ]
+          },
+          {
+            "type": "verse",
+            "lines": [
+              "Мне приснилось небо Лондона,",
+              "В нём приснился долгий поцелуй.",
+              "Мы гуляли там по облакам,",
+              "Притворились лондонским дождём,",
+              "Моросили вместе на асфальт.",
+              "Утром,",
+              "Я узнаю утром,",
+              "Ты узнаешь позже.",
+              "Этих снов дороже",
+              "Ничего и нет."
+            ]
+          },
+          {
+            "type": "chorus",
+            "lines": [
+              "Без таких вот звоночков",
+              "Я же зверь-одиночка.",
+              "Промахнусь, вернусь ночью —",
+              "Не заметит никто.",
+              "Всё тот же зверь-одиночка,",
+              "Я считаю шажочки",
+              "До последней до точки.",
+              "Побежали летать!"
+            ]
+          }
+        ]
+      },
+      "video_clips": [
+        {
+          "title": "Земфира - Небо Лондона (официальное видео)",
+          "url": "https://www.youtube.com/watch?v=I1SBneovIV8"
+        }
+      ]
+    }
+  ]
+}

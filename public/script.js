@@ -1,5 +1,17 @@
 // Smooth scroll for anchor links
 document.addEventListener('DOMContentLoaded', function() {
+    // Auto-scroll to player on song pages
+    const youtubeContainer = document.querySelector('.youtube-container');
+    if (youtubeContainer) {
+        // Small delay to ensure page is fully loaded
+        setTimeout(() => {
+            youtubeContainer.scrollIntoView({
+                behavior: 'smooth',
+                block: 'center'
+            });
+        }, 100);
+    }
+    
     // Add smooth scrolling to all anchor links
     const links = document.querySelectorAll('a[href^="#"]');
     
@@ -32,5 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }, index * 100);
     });
 });
+
+
 
 
